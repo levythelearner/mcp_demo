@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "math-demo": {
+      "command": "/path/to/your/.venv/bin/python",
+      "args": ["/path/to/your/math_server.py"]
+    },
+    "weather-demo": {
+      "command": "/path/to/your/.venv/bin/python", 
+      "args": ["/path/to/your/weather_server.py"]
+    }
+  }
+}
