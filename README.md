@@ -1,4 +1,4 @@
-# Demo repo for my sharing at HCM Data Meetup #20 - "Making Sense of MCP and AI Agents: What You Need to Know"
+# MCP Demo Repo
 
 Interactive AI agents using MCP (Model Context Protocol) for external tool integration. This demo showcases three distinct use cases for building agents with external tools through MCP servers.
 
@@ -208,6 +208,7 @@ source .venv/bin/activate && python 3_weather_agent_mcp.py --demo
 - [AWS Bedrock Setup](https://docs.aws.amazon.com/bedrock/)
 
 ---
+*This is part of my sharing at [HCM Data Meetup #20 - "Making Sense of MCP and AI Agents: What You Need to Know"](https://www.meetup.com/ho-chi-minh-city-data-meetup-group/events/308303361/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)*
 
 *For more information, please contact me at:*
 - 🐙 **GitHub:** [levythelearner](https://github.com/levythelearner)
